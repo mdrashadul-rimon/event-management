@@ -28,3 +28,12 @@
     border-radius: 5px;
     font-weight: 600;
 }
+.button-style-2{
+    background-color: #ff6b6b4d;
+    padding: 5px 50px;
+    color: #3F87F5;
+    font-weight: 600;
+}
+.custom-color-1{
+    color: #F496D1;
+}
