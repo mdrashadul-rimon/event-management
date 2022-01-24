@@ -29,7 +29,7 @@
     font-weight: 600;
 }
 .button-style-2{
-    background-color: #ffbcbc4d;
+    background-color: #5183554d;
     padding: 10px 60px;
     color: #3F87F5;
     font-weight: 600;
@@ -47,4 +47,7 @@
 .hot-tip{
     background-color: #FF4E4E;
     transform: translate(100%,-50%);
+}
+footer{
+    height: 200px;
 }
